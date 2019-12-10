@@ -4,4 +4,7 @@ This hackathon project during Local Hack Day presented by HackCU effectively cre
 to gain advice from educators on various topics such as study abroad, mock job interviews, and internships. 
 
 Gernene: Frontend, UI, Backend
+
 Sid: User Authentication, Backend
+
+This project is my first forray into full stack development.
